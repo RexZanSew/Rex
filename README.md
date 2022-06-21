@@ -20,8 +20,8 @@
 ```
 
 ## How to use ?
-1. git clone https://github.com/dkmpostor/node-stumble-guys
-2. cd node-stumble-guys
+1. git clone https://github.com/AraxxePG/CrownDupe
+2. cd CrownDupe
 3. npm i
 4. node index.js
 5. Paste auth token 
