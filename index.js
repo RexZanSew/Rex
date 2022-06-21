@@ -28,7 +28,7 @@ const GoStumble = (auth) => new Promise((resolve, reject) => {
 (async () => {
 
   console.log(`Trophy Crown Duplicate Very Safe`) 
-By : ${chalk.bold('Araxxe.PG')} - Credit : @AraxxePG
+By : $chalk.bold('Araxxe.PG')} - Credit : @AraxxePG
 `);
 
   const auth = rs.question('Enter Authentication Code! : ');
