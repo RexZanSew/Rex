@@ -51,9 +51,9 @@ By : $chalk.bold('Araxxe.PG')} - Credit : @AraxxePG
       const crown = data.User.Crowns;
 
 console.log(chalk.bgBlack(`\r[ ${moment().format('HH:mm:ss')} ] ${chalk.violet(`User : ${username}`)} | ${chalk.green(`Trophy : ${trophy}`)} | ${chalk.pink(`Crown : ${crown}`)}`));
-      await sleep(6500);
+      await sleep(2500);
 
-    } else if (result == 'BANNED') {
+    } else if (result == 'MAMPUS KE BAN') {
       console.log(chalk.bgRed(`Your Account has been Banned`));
      break;
     }
